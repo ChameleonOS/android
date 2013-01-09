@@ -265,6 +265,7 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
+  <project path="local_manifests" name="ChameleonOS/android_local_manifests" remote="github" revision="jellybean-mr1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="jb-mr1-release" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
