@@ -19,11 +19,11 @@
            sync-c="true"
            sync-j="4" />
 
-  <project name="chameleonos/android_build" path="build" remote="bitbucket" revision="jellybean-mr1">
+  <project name="ChameleonOS/android_build" path="build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="ChameleonOS/android" remote="github" revision="jellybean-mr1" />
+  <project path="android" name="ChameleonOS/android" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" revision="cm-10.1" />
   <project path="bionic" name="CyanogenMod/android_bionic" revision="cm-10.1" />
