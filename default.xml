@@ -19,7 +19,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project name="chameleonos/android_build" path="build" remote="bitbucket" revision="jellybean">
+  <project name="ChameleonOS/android_build" path="build" remote="github" revision="jellybean">
     <copyfile dest="Makefile" src="core/root.mk" />
   </project>
 
