@@ -29,7 +29,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" revision="cm-10.1" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" revision="cm-10.1" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" revision="cm-10.1" />
-  <project path="cts" name="platform/cts" remote="aosp" revision="jb-mr1-release" revision="cm-10.1" />
+  <project path="cts" name="platform/cts" remote="aosp" revision="jb-mr1-release" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" revision="cm-10.1" />
   <project path="development" name="CyanogenMod/android_development" revision="cm-10.1" />
   <project path="device/common" name="CyanogenMod/android_device_common" revision="cm-10.1" />
@@ -237,7 +237,7 @@
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" revision="cm-10.1" />
   <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" revision="cm-10.1" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" revision="cm-10.1" />
-  <project path="gdk" name="platform/gdk" remote="aosp" revision="jb-mr1-release" revision="cm-10.1" />
+  <project path="gdk" name="platform/gdk" remote="aosp" revision="jb-mr1-release" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" revision="cm-10.1" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" revision="cm-10.1" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" revision="cm-10.1" />
