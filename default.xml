@@ -278,8 +278,8 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" revision="cm-10.1" />
   <project path="packages/apps/ChaOSLauncher" name="chameleonos/android_packages_apps_ChaOSLauncher" remote="bitbucket" revision="jellybean-mr1" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" revision="cm-10.1" />
-  <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" revision="cm-10.1" />
+  <project path="packages/apps/COSUpdater" name="chameleonos/android_packages_apps_COSUpdater" remote="bitbucket" revision="jellybean-mr1" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" revision="cm-10.1" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" revision="cm-10.1" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" revision="cm-10.1" />
