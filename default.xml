@@ -183,7 +183,7 @@
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="cm-10.1" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" revision="cm-10.1" />
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" revision="cm-10.1" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" revision="cm-10.1" />
+  <project path="external/skia" name="ChameleonOS/android_external_skia" revision="jellybean-mr1" />
   <project path="external/smali" name="CyanogenMod/android_external_smali" revision="cm-10.1" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" revision="cm-10.1" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" revision="cm-10.1" />
