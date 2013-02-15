@@ -183,7 +183,7 @@
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="cm-10.1" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" revision="cm-10.1" />
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" revision="cm-10.1" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" revision="cm-10.1" />
+  <project path="external/skia" name="ChameleonOS/android_external_skia" revision="jellybean-mr1" />
   <project path="external/smali" name="CyanogenMod/android_external_smali" revision="cm-10.1" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" revision="cm-10.1" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" revision="cm-10.1" />
@@ -278,8 +278,8 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" revision="cm-10.1" />
   <project path="packages/apps/ChaOSLauncher" name="chameleonos/android_packages_apps_ChaOSLauncher" remote="bitbucket" revision="jellybean-mr1" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" revision="cm-10.1" />
-  <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" revision="cm-10.1" />
+  <project path="packages/apps/COSUpdater" name="chameleonos/android_packages_apps_COSUpdater" remote="bitbucket" revision="jellybean-mr1" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" revision="cm-10.1" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" revision="cm-10.1" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" revision="cm-10.1" />
