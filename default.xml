@@ -363,7 +363,7 @@
 
   <project path="sdk" name="platform/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" revision="cm-10.1" />
-  <project path="system/core" name="chameleonos/android_system_core" remote="bitbucket" revision="jellybean-mr1" />
+  <project path="system/core" name="ChameleonOS/android_system_core" revision="jellybean-mr1" />
   <project path="system/cpufrequtils" name="ChameleonOS/android_system_cpufrequtils" revision="jellybean" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" revision="cm-10.1" />
   <project path="system/invoke-as" name="ChameleonOS/android_system_invoke-as" revision="jellybean" />
