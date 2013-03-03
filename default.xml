@@ -278,7 +278,7 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" revision="cm-10.1" />
   <project path="packages/apps/ChaOSLauncher" name="chameleonos/android_packages_apps_ChaOSLauncher" remote="bitbucket" revision="jellybean-mr1" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" revision="cm-10.1" />
-  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" revision="cm-10.1" />
+  <project path="packages/apps/Contacts" name="ChameleonOS/android_packages_apps_Contacts" revision="jellybean-mr1" />
   <project path="packages/apps/COSUpdater" name="chameleonos/android_packages_apps_COSUpdater" remote="bitbucket" revision="jellybean-mr1" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" revision="cm-10.1" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" revision="cm-10.1" />
@@ -319,7 +319,7 @@
   <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" revision="cm-10.1" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" revision="cm-10.1" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" revision="cm-10.1" />
-  <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" revision="cm-10.1" />
+  <project path="packages/providers/ContactsProvider" name="ChameleonOS/android_packages_providers_ContactsProvider" revision="jellybean-mr1" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" revision="cm-10.1" />
   <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" revision="cm-10.1" />
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" revision="cm-10.1" />
