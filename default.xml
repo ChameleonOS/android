@@ -297,6 +297,7 @@
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" revision="cm-10.1" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" revision="cm-10.1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" revision="cm-10.1" />
+  <project path="packages/apps/PermissionsManager" name="ChameleonOS/android_packages_apps_PermissionsManager" revision="jellybean-mr1" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" revision="cm-10.1" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" revision="cm-10.1" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" revision="cm-10.1" />
