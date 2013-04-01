@@ -11,9 +11,6 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <remote  name="bitbucket"
-           fetch="ssh://git@bitbucket.org" />
-
   <default revision="refs/heads/jellybean-mr1"
            remote="github"
            sync-c="true"
@@ -215,7 +212,7 @@
   <project path="external/zlib" name="ChameleonOS/android_external_zlib" />
   <project path="external/zxing" name="ChameleonOS/android_external_zxing" />
   <project path="frameworks/av" name="ChameleonOS/android_frameworks_av" />
-  <project path="frameworks/base" name="chameleonos/android_frameworks_base" remote="bitbucket" revision="jellybean-mr1" />
+  <project path="frameworks/base" name="ChameleonOS/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="ChameleonOS/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="ChameleonOS/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="ChameleonOS/android_frameworks_compile_llvm-ndk-cc" />
@@ -277,15 +274,15 @@
   <project path="packages/apps/Camera" name="ChameleonOS/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="ChameleonOS/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="ChameleonOS/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/ChaOSLauncher" name="chameleonos/android_packages_apps_ChaOSLauncher" remote="bitbucket" revision="jellybean-mr1" />
+  <project path="packages/apps/ChaOSLauncher" name="ChameleonOS/android_packages_apps_ChaOSLauncher" />
   <project path="packages/apps/CMFileManager" name="ChameleonOS/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/Contacts" name="ChameleonOS/android_packages_apps_Contacts" revision="jellybean-mr1" />
-  <project path="packages/apps/COSUpdater" name="chameleonos/android_packages_apps_COSUpdater" remote="bitbucket" revision="jellybean-mr1" />
+  <project path="packages/apps/Contacts" name="ChameleonOS/android_packages_apps_Contacts" />
+  <project path="packages/apps/COSUpdater" name="ChameleonOS/android_packages_apps_COSUpdater" />
   <project path="packages/apps/DeskClock" name="ChameleonOS/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="ChameleonOS/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="ChameleonOS/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="ChameleonOS/android_packages_apps_Exchange" />
-  <project path="packages/apps/Flypaper" name="chameleonos/android_packages_apps_Flypaper" remote="bitbucket" revision="jellybean" />
+  <project path="packages/apps/Flypaper" name="ChameleonOS/android_packages_apps_Flypaper" />
   <project path="packages/apps/Gallery" name="ChameleonOS/android_packages_apps_Gallery" />
   <project path="packages/apps/Gallery2" name="ChameleonOS/android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" name="ChameleonOS/android_packages_apps_HTMLViewer" />
@@ -293,24 +290,24 @@
   <project path="packages/apps/Launcher2" name="ChameleonOS/android_packages_apps_Launcher2" />
   <project path="packages/apps/LegacyCamera" name="ChameleonOS/android_packages_apps_LegacyCamera" />
   <project path="packages/apps/LockClock" name="ChameleonOS/android_packages_apps_LockClock" />
-  <project path="packages/apps/Mms" name="chameleonos/android_packages_apps_Mms" remote="bitbucket" revision="jellybean-mr1" />
+  <project path="packages/apps/Mms" name="ChameleonOS/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="ChameleonOS/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="ChameleonOS/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="ChameleonOS/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="ChameleonOS/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/PermissionsManager" name="ChameleonOS/android_packages_apps_PermissionsManager" revision="jellybean-mr1" />
+  <project path="packages/apps/PermissionsManager" name="ChameleonOS/android_packages_apps_PermissionsManager" />
   <project path="packages/apps/Phone" name="ChameleonOS/android_packages_apps_Phone" />
   <project path="packages/apps/Protips" name="ChameleonOS/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="ChameleonOS/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="ChameleonOS/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="chameleonos/android_packages_apps_Settings" remote="bitbucket" revision="jellybean-mr1" />
+  <project path="packages/apps/Settings" name="ChameleonOS/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="ChameleonOS/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="ChameleonOS/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="ChameleonOS/android_packages_apps_SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="ChameleonOS/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="ChameleonOS/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="ChameleonOS/android_packages_apps_Tag" />
-  <project path="packages/apps/ThemeManager" name="chameleonos/android_packages_apps_ThemeManager" remote="bitbucket" revision="jellybean" />
+  <project path="packages/apps/ThemeManager" name="ChameleonOS/android_packages_apps_ThemeManager" />
   <project path="packages/apps/Torch" name="ChameleonOS/android_packages_apps_Torch" />
   <project path="packages/apps/VideoEditor" name="ChameleonOS/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="ChameleonOS/android_packages_apps_VoiceDialer" />
@@ -320,7 +317,7 @@
   <project path="packages/inputmethods/PinyinIME" name="ChameleonOS/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="ChameleonOS/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="ChameleonOS/android_packages_providers_CalendarProvider" />
-  <project path="packages/providers/ContactsProvider" name="ChameleonOS/android_packages_providers_ContactsProvider" revision="jellybean-mr1" />
+  <project path="packages/providers/ContactsProvider" name="ChameleonOS/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="ChameleonOS/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="ChameleonOS/android_packages_providers_DrmProvider" />
   <project path="packages/providers/MediaProvider" name="ChameleonOS/android_packages_providers_MediaProvider" />
@@ -374,7 +371,7 @@
   <project path="system/vold" name="ChameleonOS/android_system_vold" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
-  <project remote="bitbucket" name="chameleonos/android_vendor_cos" path="vendor/cos" revision="jellybean-mr1" />
+  <project path="vendor/cos" name="ChameleonOS/android_vendor_cos" />
   <project path="vendor/qcom/opensource/v8" name="ChameleonOS/android_vendor_qcom_opensource_v8" />
 
   <!-- Use Koush's open Superuser -->
