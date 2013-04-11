@@ -375,6 +375,6 @@
   <project path="vendor/qcom/opensource/v8" name="ChameleonOS/android_vendor_qcom_opensource_v8" />
 
   <!-- Use Koush's open Superuser -->
-  <project name="koush/Superuser" path="external/koush/Superuser" remote="github" revision="master" />
+  <project name="ChameleonOS/Superuser" path="external/koush/Superuser" remote="github" revision="jellybean-mr1" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
 </manifest>
