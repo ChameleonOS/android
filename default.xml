@@ -180,7 +180,7 @@
   <project path="external/rsync" name="ChameleonOS/android_external_rsync" />
   <project path="external/safe-iop" name="ChameleonOS/android_external_safe-iop" />
   <project path="external/sepolicy" name="ChameleonOS/android_external_sepolicy" />
-  <project path="external/skia" name="ChameleonOS/android_external_skia" revision="jellybean-mr1" />
+  <project path="external/skia" name="ChameleonOS/android_external_skia" />
   <project path="external/smali" name="ChameleonOS/android_external_smali" />
   <project path="external/sonivox" name="ChameleonOS/android_external_sonivox" />
   <project path="external/speex" name="ChameleonOS/android_external_speex" />
@@ -263,7 +263,6 @@
   <project path="hardware/ti/wpan" name="ChameleonOS/android_hardware_ti_wpan" />
   <project path="libcore" name="ChameleonOS/android_libcore" />
   <project path="libnativehelper" name="ChameleonOS/android_libnativehelper" />
-  <project path="local_manifests" name="ChameleonOS/android_local_manifests" remote="github" revision="jellybean-mr1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="packages/apps/Apollo" name="ChameleonOS/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="ChameleonOS/android_packages_apps_BasicSmsReceiver" />
@@ -362,10 +361,10 @@
 
   <project path="sdk" name="platform/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="system/bluetooth" name="ChameleonOS/android_system_bluetooth" />
-  <project path="system/core" name="ChameleonOS/android_system_core" revision="jellybean-mr1" />
-  <project path="system/cpufrequtils" name="ChameleonOS/android_system_cpufrequtils" revision="jellybean" />
+  <project path="system/core" name="ChameleonOS/android_system_core" />
+  <project path="system/cpufrequtils" name="ChameleonOS/android_system_cpufrequtils" />
   <project path="system/extras" name="ChameleonOS/android_system_extras" />
-  <project path="system/invoke-as" name="ChameleonOS/android_system_invoke-as" revision="jellybean" />
+  <project path="system/invoke-as" name="ChameleonOS/android_system_invoke-as" />
   <project path="system/media" name="ChameleonOS/android_system_media" />
   <project path="system/netd" name="ChameleonOS/android_system_netd" />
   <project path="system/security" name="ChameleonOS/android_system_security" />
@@ -376,6 +375,6 @@
   <project path="vendor/qcom/opensource/v8" name="ChameleonOS/android_vendor_qcom_opensource_v8" />
 
   <!-- Use Koush's open Superuser -->
-  <project name="ChameleonOS/Superuser" path="external/koush/Superuser" remote="github" revision="jellybean-mr1" />
+  <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
 </manifest>
