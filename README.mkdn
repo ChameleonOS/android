@@ -31,14 +31,9 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the ChameleonOS trees, use a command like this:
 
-    repo init -u git://github.com/ChameleonOS/android.git -b jellybean-mr1
+    repo init -u git://github.com/ChameleonOS/android.git -b jellybean-mr2.1
 
 Then to sync up:
 
     repo sync
-
-Please see the [ChameleonOS Wiki](http://wiki.chameleonos.org/) for building instructions.
-
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.chameleonos.org/index.php/Github_Organization)
 
