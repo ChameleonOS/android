@@ -16,7 +16,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project name="ChameleonOS/android_build" path="build" groups="pdk">
+  <project name="ChameleonOS/android_build" path="build" groups="pdk" revision="seandroid-4.3" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -133,7 +133,7 @@
   <project path="external/libphonenumber" name="ChameleonOS/android_external_libphonenumber" />
   <project path="external/libpng" name="ChameleonOS/android_external_libpng" groups="pdk" />
   <project path="external/libppp" name="ChameleonOS/android_external_libppp" />
-  <project path="external/libselinux" name="ChameleonOS/android_external_libselinux" groups="pdk" />
+  <project path="external/libselinux" name="ChameleonOS/android_external_libselinux" groups="pdk" revision="seandroid-4.3" />
   <project path="external/libsepol" name="ChameleonOS/android_external_libsepol" groups="pdk" />
   <project path="external/libusb" name="ChameleonOS/android_external_libusb" />
   <project path="external/libusb_aah" name="ChameleonOS/android_external_libusb_aah" groups="libusb_aah" />
@@ -189,7 +189,7 @@
   <project path="external/robolectric" name="ChameleonOS/android_external_robolectric" />
   <project path="external/rsync" name="ChameleonOS/android_external_rsync" />
   <project path="external/safe-iop" name="ChameleonOS/android_external_safe-iop" groups="pdk" />
-  <project path="external/sepolicy" name="ChameleonOS/android_external_sepolicy" groups="pdk" />
+  <project path="external/sepolicy" name="ChameleonOS/android_external_sepolicy" groups="pdk" revision="seandroid-4.3" />
   <project path="external/skia" name="ChameleonOS/android_external_skia" />
   <project path="external/smack" name="ChameleonOS/android_external_smack" />
   <project path="external/smali" name="ChameleonOS/android_external_smali" />
@@ -223,14 +223,14 @@
   <project path="external/zlib" name="ChameleonOS/android_external_zlib" groups="pdk" />
   <project path="external/zxing" name="ChameleonOS/android_external_zxing" />
   <project path="frameworks/av" name="ChameleonOS/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="ChameleonOS/android_frameworks_base" />
+  <project path="frameworks/base" name="ChameleonOS/android_frameworks_base" revision="seandroid-4.3" />
   <project path="frameworks/compile/libbcc" name="ChameleonOS/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="ChameleonOS/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="ChameleonOS/android_frameworks_compile_slang" groups="pdk" />
   <project path="frameworks/ex" name="ChameleonOS/android_frameworks_ex" />
   <project path="frameworks/mff" name="ChameleonOS/android_frameworks_mff" />
   <project path="frameworks/ml" name="ChameleonOS/android_frameworks_ml" />
-  <project path="frameworks/native" name="ChameleonOS/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/native" name="ChameleonOS/android_frameworks_native" groups="pdk" revision="seandroid-4.3" />
   <project path="frameworks/opt/calendar" name="ChameleonOS/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="ChameleonOS/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" name="ChameleonOS/android_frameworks_opt_colorpicker" />
@@ -319,6 +319,7 @@
   <project path="packages/apps/Protips" name="ChameleonOS/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="ChameleonOS/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="ChameleonOS/android_packages_apps_QuickSearchBox" />
+  <project path="packages/apps/SEAndroidAdmin" name="ChameleonOS/android_packages_apps_SEAndroidAdmin" revision="seandroid-4.3" />
   <project path="packages/apps/Settings" name="ChameleonOS/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="ChameleonOS/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="ChameleonOS/android_packages_apps_SoundRecorder" />
@@ -391,7 +392,7 @@
 
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="system/bluetooth" name="ChameleonOS/android_system_bluetooth" groups="pdk" />
-  <project path="system/core" name="ChameleonOS/android_system_core" groups="pdk" />
+  <project path="system/core" name="ChameleonOS/android_system_core" groups="pdk" revision="seandroid-4.3" />
   <project path="system/cpufrequtils" name="ChameleonOS/android_system_cpufrequtils" groups="pdk" />
   <project path="system/extras" name="ChameleonOS/android_system_extras" groups="pdk" />
   <project path="system/media" name="ChameleonOS/android_system_media" groups="pdk" />
