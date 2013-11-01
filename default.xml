@@ -23,6 +23,7 @@
   <project path="android" name="ChameleonOS/android" />
 
   <project path="abi/cpp" name="ChameleonOS/android_abi_cpp" groups="pdk" />
+  <project path="art" name="ChameleonOS/android_art" />
   <project path="bionic" name="ChameleonOS/android_bionic" groups="pdk" />
   <project path="bootable/diskinstaller" name="ChameleonOS/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="ChameleonOS/android_bootable_recovery" />
