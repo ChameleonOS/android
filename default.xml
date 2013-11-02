@@ -33,7 +33,7 @@
   <project path="developers/demos" name="ChameleonOS/android_developers_demos" />
   <project path="developers/docs" name="ChameleonOS/android_developers_docs" />
   <project path="developers/samples/android" name="ChameleonOS/android_developers_samples_android" />
-  <project path="development" name="ChameleonOS/android_development" />
+  <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/common" name="ChameleonOS/android_device_common" />
   <project path="device/generic/armv7-a-neon" name="ChameleonOS/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/armv7-a" name="ChameleonOS/android_device_generic_armv7-a" groups="pdk" />
