@@ -354,6 +354,7 @@
   <project path="packages/apps/Protips" name="ChameleonOS/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="ChameleonOS/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="ChameleonOS/android_packages_apps_QuickSearchBox" />
+  <project path="packages/apps/ScreenRecorder" name="ChameleonOS/android_packages_apps_ScreenRecorder" />
   <project path="packages/apps/Settings" name="ChameleonOS/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="ChameleonOS/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="ChameleonOS/android_packages_apps_SoundRecorder" />
