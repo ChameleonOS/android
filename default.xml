@@ -299,6 +299,7 @@
   <project path="hardware/qcom/media" name="ChameleonOS/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="ChameleonOS/android_hardware_qcom_media-caf" groups="caf" />
   <project path="hardware/qcom/msm8960" name="ChameleonOS/android_hardware_qcom_msm8960" groups="qcom" />
+  <project path="hardware/qcom/msm8x74" name="ChameleonOS/android_hardware_qcom_msm8x74" groups="qcom" />
   <project path="hardware/qcom/power" name="ChameleonOS/android_hardware_qcom_power" groups="qcom" />
   <project path="hardware/qcom/sensors" name="ChameleonOS/android_hardware_qcom_sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="ChameleonOS/android_hardware_qcom_wlan" groups="qcom" />
