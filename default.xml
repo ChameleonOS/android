@@ -461,7 +461,12 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="vendor/cos" name="ChameleonOS/android_vendor_cos" />
   <project path="vendor/qcom/opensource/v8" name="ChameleonOS/android_vendor_qcom_opensource_v8" />
+<!--XPERIA U-->
 
+  <project path="device/sony/montblanc-common" name="XNovathor/android_device_sony_montblanc-common" remote="github" revision="jellybean" />
+  <project path="device/sony/kumquat" name="XNovathor/android_device_sony_kumquat" remote="github" revision="jellybean" />
+  <project path="vendor/sony" name="XNovathor/android_vendor_sony" remote="github" revision="jellybean" />
+  <project path="kernel/sony/u8500" name="XNovathor/android_kernel_sony_u8500" remote="github" revision="jb-dev" />
   <!-- Use Koush's open Superuser -->
   <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
