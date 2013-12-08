@@ -293,8 +293,10 @@
   <project path="hardware/qcom/audio" name="ChameleonOS/android_hardware_qcom_audio" groups="qcom" />
   <project path="hardware/qcom/audio-caf" name="ChameleonOS/android_hardware_qcom_audio-caf" groups="caf" />
   <project path="hardware/qcom/bt" name="ChameleonOS/android_hardware_qcom_bt" groups="qcom" />
+  <project path="hardware/qcom/camera" name="ChameleonOS/android_hardware_qcom_camera" groups="qcom" />
   <project path="hardware/qcom/display" name="ChameleonOS/android_hardware_qcom_display" groups="qcom" />
   <project path="hardware/qcom/display-caf" name="ChameleonOS/android_hardware_qcom_display-caf" groups="caf" />
+  <project path="hardware/qcom/gps" name="ChameleonOS/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="ChameleonOS/android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" name="ChameleonOS/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="ChameleonOS/android_hardware_qcom_media-caf" groups="caf" />
