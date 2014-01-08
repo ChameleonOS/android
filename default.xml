@@ -11,7 +11,7 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/heads/kitkat-staging"
+  <default revision="refs/heads/kitkat"
            remote="github"
            sync-c="true"
            sync-j="4" />
